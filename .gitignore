@@ -1,0 +1,10 @@
+# Common
+.DS_Store
+*.db*
+.sw?
+.vscode
+
+# App
+.env
+.venv
+**/__pycache__/
